@@ -28,7 +28,7 @@ ___
 
 **_Software UI looks like this_**
 
-__
+___
 
 <img src='image1.jpg'>
 
