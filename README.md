@@ -25,8 +25,13 @@ ___
 ## 3.0 Snapshot of Project
 
 <img src='image.jpg'>
+
 **_Software UI looks like this_**
 
+__
+
 <img src='image1.jpg'>
+
 **_Typing_**
+
 ___
